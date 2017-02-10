@@ -1,0 +1,15 @@
+
+body {
+  background-image: url("https://zellox.com/wp-content/uploads/2016/04/website-background-images-%E2%80%AB309218135%E2%80%AC-             %E2%80%AB%E2%80%AC.jpg");
+  font-family: monospace;
+  color: navy;
+}
+
+span.spoil-protect {
+  background-color: navy;
+  color: navy;
+}
+
+span.spoil-protect:hover {
+  background-color: orange;
+}
